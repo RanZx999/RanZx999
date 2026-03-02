@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey 👋 Bagi 100k dong</h1>
+<h1 align="center">Hey 👋 dih🥀</h1>
 
 ###
 
