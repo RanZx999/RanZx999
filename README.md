@@ -15,12 +15,10 @@
 ### 🎵 Now Playing
 
 <div align="center">
-  <a href="https://open.spotify.com/user/316xmbtzeewjf7y53yl6ac3txsdi">
-    <img src="https://novatorem-git-main.USERNAME.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+  <a href="https://www.last.fm/user/Rangga124Konz">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=Rangga124Konz" alt="Last.fm Now Playing" width="400" />
   </a>
 </div>
-
-> **Setup:** Deploy [novatorem](https://github.com/novatorem/novatorem) to Vercel & connect your Spotify → replace the URL above with your own.
 
 ---
 
@@ -68,8 +66,8 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" />
   </a>
   &nbsp;
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="30" />
+  <a href="https://www.last.fm/user/Rangga124Konz">
+    <img src="https://img.shields.io/static/v1?message=Last.fm&logo=last-dot-fm&label=&color=D51007&logoColor=white&labelColor=&style=for-the-badge" height="30" />
   </a>
 </div>
 
