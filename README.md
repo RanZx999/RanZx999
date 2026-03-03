@@ -5,20 +5,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Ran;Full+Stack+Developer;Building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+dih+%F0%9F%A5%80;Full+Stack+Developer;Building+cool+stuff+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <br/>
-
----
-
-### 🎵 Now Playing
-
-<div align="center">
-  <a href="https://www.last.fm/user/Rangga124Konz">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=Rangga124Konz" alt="Last.fm Now Playing" width="400" />
-  </a>
-</div>
 
 ---
 
@@ -26,7 +16,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nestjs,laravel,php,aws,npm&theme=dark&perline=5" />
-  <br/>
+  <br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="storybook" />
 </div>
 
@@ -47,7 +37,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Play Game With Me
 
 <div align="center">
   <picture>
@@ -65,18 +55,14 @@
   <a href="https://discord.gg/7PEQWsZX">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" />
   </a>
-  &nbsp;
-  <a href="https://www.last.fm/user/Rangga124Konz">
-    <img src="https://img.shields.io/static/v1?message=Last.fm&logo=last-dot-fm&label=&color=D51007&logoColor=white&labelColor=&style=for-the-badge" height="30" />
-  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVrMDY5M3BxbWliNmluYzRpdDhzcnlpZmw2aHM0YmlobzhnaHQxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/igyfXHSWGHZME0PLvr/giphy.gif" width="280" />
-  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVrMDY5M3BxbWliNmluYzRpdDhzcnlpZmw2aHM0YmlobzhnaHQxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/igyfXHSWGHZME0PLvr/giphy.gif" width="260" />
+
   <br/><br/>
-  
+
   <img src="https://komarev.com/ghpvc/?username=RanZx999&style=for-the-badge&color=blueviolet" />
 </div>
