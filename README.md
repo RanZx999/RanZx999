@@ -1,68 +1,64 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/RanZx999/RanZx999/refs/heads/main/github-header-banner.png" />
+  <img height="200" src="https://raw.githubusercontent.com/RanZx999/RanZx999/refs/heads/main/github-header-banner.png"  />
 </div>
 
-<br/>
+###
+
+<h1 align="center">Hey 👋 dih🥀</h1>
+
+###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+dih+%F0%9F%A5%80;Full+Stack+Developer;Building+cool+stuff+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
 </div>
 
-<br/>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nestjs,laravel,php,aws,npm&theme=dark&perline=5" />
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="storybook" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanZx999&show_icons=true&theme=dracula&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanZx999&theme=dracula&hide_border=false&border_radius=10&layout=compact" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RanZx999&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10" height="165" />
-</div>
-
----
-
-### 🐍 Play Game With Me
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RanZx999/RanZx999/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RanZx999/RanZx999/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/RanZx999/RanZx999/output/snake.svg" />
-  </picture>
-</div>
-
----
-
-### 🌐 Connect With Me
+###
 
 <div align="center">
   <a href="https://discord.gg/7PEQWsZX">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 </div>
-
----
+###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVrMDY5M3BxbWliNmluYzRpdDhzcnlpZmw2aHM0YmlobzhnaHQxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/igyfXHSWGHZME0PLvr/giphy.gif" width="260" />
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=RanZx999&style=for-the-badge&color=blueviolet" />
+  <img src="https://streak-stats.demolab.com?user=RanZx999&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h2 align="center">Play Game With Me</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RanZx999/RanZx999/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVrMDY5M3BxbWliNmluYzRpdDhzcnlpZmw2aHM0YmlobzhnaHQxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/igyfXHSWGHZME0PLvr/giphy.gif"  />
+</div>
+
+###
+
+
+
+bisa ga perbagus lagi trus tambahin kayak ada music spotify gitu
