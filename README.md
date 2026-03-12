@@ -58,7 +58,3 @@
 </div>
 
 ###
-
-
-
-bisa ga perbagus lagi trus tambahin kayak ada music spotify gitu
